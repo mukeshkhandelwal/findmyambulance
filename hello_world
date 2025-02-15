@@ -1,0 +1,25 @@
+# hi! this is my first python file
+print("hello world")
+#first= float(input("First No.:" ))
+#second = float(input("Second No.:" ))
+#sum= first - second
+#print("Total:" + str(sum))
+
+#numbers= [11,22,33,44,55]
+#sum = 0
+#for number in numbers:
+    #print(number)
+    #sum= sum+ number
+#print("total:" + str(sum))
+
+
+
+first= int(input("first no." ))
+second= int(input("second no." ))
+third= int(input("third no." ))
+fourth= int(input("fourth no." ))
+fifth= int(input("fifth no." ))
+
+sum= fir
+print("total:" + str(sum))
+
